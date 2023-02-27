@@ -10,7 +10,7 @@ Sim, Professores, Disciplina, Materia e aula para melhores a facilitação das r
 
 ## Quais são os principais campos e tipos?
 
-Os principais campos são Nome/Titulo e Id. Já os tipos são Varchar e Integer.
+Os principais campos são Nome/Titulo e Id. Já os tipos são VarChar e Integer.
 
 
 ## Como essas entidades estão relacionadas?
