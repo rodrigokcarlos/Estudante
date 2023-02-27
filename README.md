@@ -1,6 +1,6 @@
 # Estudante
 
-![dbImage](https://github.com/rodrigokcarlos/Estudante/blob/main/escola.png?raw=true)
+![dbImage](https://raw.githubusercontent.com/rodrigokcarlos/Estudante/main/m4img.png)
 
 
 ## Existem outras entidades além dessas três?
