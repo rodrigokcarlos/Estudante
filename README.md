@@ -1,6 +1,6 @@
 # Estudante
 
-![dbImage](https://raw.githubusercontent.com/rodrigokcarlos/Estudante/main/m4img.png)
+![dbImage](https://raw.githubusercontent.com/rodrigokcarlos/Estudante/main/m4img.jpg)
 
 
 ## Existem outras entidades além dessas três?
